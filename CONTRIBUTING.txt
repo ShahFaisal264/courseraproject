@@ -1,0 +1,22 @@
+Contributing to Coursera Project
+Thank you for considering contributing to this project! Follow these guidelines to ensure a smooth contribution process.
+How to Contribute
+
+Fork the Repository: Create a fork of this repository to your GitHub account.
+Clone the Fork: Clone your forked repository to your local machine.
+Create a Branch: Create a new branch for your changes (git checkout -b feature/your-feature).
+Make Changes: Implement your changes or fixes.
+Commit Changes: Commit your changes with a descriptive message (git commit -m "Add feature X").
+Push Changes: Push your branch to your forked repository (git push origin feature/your-feature).
+Create a Pull Request: Open a pull request from your branch to the main branch of this repository.
+
+Code Style
+
+Ensure scripts (e.g., simple-interest.sh) are executable and follow Bash conventions.
+Use clear, descriptive commit messages.
+
+Reporting Issues
+
+Use the GitHub Issues tab to report bugs or suggest enhancements.
+
+Thank you for contributing!
